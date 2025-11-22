@@ -1,0 +1,6 @@
+pytest
+hypothesis
+fastapi
+uvicorn[standard]
+fastapi
+uvicorn[standard]

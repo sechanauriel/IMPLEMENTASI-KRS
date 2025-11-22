@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "student_id": "24360008",
+      "name": "Dito Bima Ramadhan"
+    },
+    {
+      "student_id": "1",
+      "name": "Dito"
+    }
+  ],
+  "courses": [
+    {
+      "code": "25110001",
+      "name": "Rekayasa Data",
+      "credits": 6
+    },
+    {
+      "code": "1",
+      "name": "Matematika",
+      "credits": 3
+    }
+  ],
+  "enrollments": {
+    "24360008": [
+      "25110001"
+    ],
+    "1": [
+      "1"
+    ]
+  },
+  "krs_status": {
+    "24360008": "draft",
+    "1": "approved"
+  },
+  "krs_approvals": {
+    "24360008": null,
+    "1": "string"
+  }
+}
